@@ -7,5 +7,3 @@ while status=="start":
         print("AI output: i am AI")
     elif "bye" == user:
         status="stop"
-    else:
-        print("invalid")
